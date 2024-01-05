@@ -27,4 +27,4 @@ Text values reflect the logged otu_labels from the study.
 
  The majority of the code was written in JavaScript to achieve the above outcomes (static/js/app.js). The app is hosted at the following site:
 
-https://mitajoshi.github.io/belly-button-challenge/
+https://mitajoshi.github.io/javascript-challenge/
