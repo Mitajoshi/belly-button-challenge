@@ -11,6 +11,9 @@ The dataset revealed that a small handful of microbial species (also called oper
 The goal was to build an interactive dashboard to present the visualization in line with the findings of the above study. 
 
 The dataset referred to above, is stored in JSON format. It has been downloaded and saved in the samples.json file, included in the repository, for reference. 
+<img width="715" alt="image" src="https://github.com/Mitajoshi/javascript-challenge/assets/142932546/a49930e5-97e3-46a6-b1fc-dbd5deb59543">
+
+
 
 ## Instructions
 Please follow following steps to run the code succesfully:
