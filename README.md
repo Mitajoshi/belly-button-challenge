@@ -13,6 +13,7 @@ The goal was to build an interactive dashboard to present the visualization in l
 The dataset referred to above, is stored in JSON format. It has been downloaded and saved in the samples.json file, included in the repository, for reference. 
 <img width="715" alt="image" src="https://github.com/Mitajoshi/javascript-challenge/assets/142932546/a49930e5-97e3-46a6-b1fc-dbd5deb59543">
 
+<img width="930" alt="image" src="https://github.com/Mitajoshi/javascript-challenge/assets/142932546/a2699c82-c5b3-4e47-967d-6319353645db">
 
 
 ## Instructions
